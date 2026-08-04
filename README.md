@@ -19,14 +19,20 @@ This repository contains the source code, analysis, and documentation for the **
 
 ---
 
-## 🗂️ Lab Structure & Topics
-*This section can be updated as you implement algorithms throughout the semester. Typical categories include:*
+## 🗂️ Lab Experiments Tracker
 
-* **Divide and Conquer** (e.g., Merge Sort, Quick Sort, Binary Search)
-* **Greedy Approaches** (e.g., Knapsack Problem, Prim's/Kruskal's Minimal Spanning Tree)
-* **Dynamic Programming** (e.g., Matrix Chain Multiplication, Longest Common Subsequence)
-* **Backtracking & Branch and Bound** (e.g., N-Queens Problem, Travelling Salesperson Problem)
-* **Graph Algorithms** (e.g., BFS, DFS, Shortest Path Algorithms)
+| Ex. No. | Topic | Status | Link |
+|:---:|---|:---:|---|
+| 1 | Implementation and Performance Analysis of Interpolation Search | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-01/interpolation_search.py) |
+| 2 | Comparative Analysis of Naive, Rabin-Karp, and KMP Algorithms for String Matching | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-02/string_matching.py) |
+| 3 | Implementation of Kruskal's and Prim's Algorithms for Minimum Spanning Tree | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-03/mst_kruskal_prim.py) |
+| 4 | Implementation of Single Source Shortest Path Algorithm (Dijkstra's) | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-04/dijkstra.py) |
+| 5 | To Find Min-Max Value by Applying Divide and Conquer Technique | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-05/min_max_dc.py) |
+| 6 | Optimal Cost Computation in Matrix Chain Multiplication using DP Technique | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-06/matrix_chain_multiplication.py) |
+| 7 | Solving N-Queens Problem using Backtracking | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-07/n_queens.py) |
+| 8 | Travelling Salesman Problem using Branch and Bound for Finding Optimal Path | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-08/tsp_branch_and_bound.py) |
+| 9 | Efficient Bin Packing using Approximation Algorithm | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-09/bin_packing.py) |
+| 10 | Improving Quick Sort Efficiency using Randomized Algorithm | Completed | [View Code](https://github.com/srinidhigaids2025-blip/daa-lab/blob/main/Experiment-10/randomized_quicksort.py) |
 
 ---
 
